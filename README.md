@@ -10,6 +10,8 @@ Each of these projects will be completed in either [repl.it](https://repl.it/tea
 
 Important resources for this course can be found in the docs folder of this repo. You particularly need to be come familiar with:
 
-* [Course Specifications](https://github.com/Aurora-College-SDD-2022/Course-Information/blob/main/docs/software-design-development-course-specs.pdf) document - this is your bible, you must learn it chapter and verse and be able to recite its passages in your sleep.
-* [Syllabus](https://github.com/Aurora-College-SDD-2022/Course-Information/blob/main/docs/software-design-development-st6-syll-from2011.pdf) which contains all the content and outcomes to be covered in the course.
+* [Course Program](docs/course_program) - this is where you can find a link to all the work to be completed each fortnight including lesson recordings.
+
+* [Course Specifications](docs/software-design-development-course-specs.pdf) - this is your bible, you must learn it chapter and verse and be able to recite its passages in your sleep.
+* [Syllabus](docs/software-design-development-st6-syll-from2011.pdf) which contains all the content and outcomes to be covered in the course.
 
