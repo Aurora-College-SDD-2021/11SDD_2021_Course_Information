@@ -9,8 +9,8 @@ The first lessons will be an overview of the Course and the work environment, sp
 ### Outcomes:
 
 * create a [GitHub](https://github.com/) account using your @education address
-* use this account join the GitHub organisation [Aurora-College-SDD-2022](https://github.com/Aurora-College-SDD-2022). That's right 2022 because we will use this repository for the next 2 years.
-* use this GitHub account to accept the invitation to the repl.it team [Aurora College SDD](https://repl.it/teams/join/jdmzgwpzujkutkljkjntpgnkqgakwqsh-ACCodeMonkeys)
+* I will use this account to invite you to the GitHub organisation [Aurora-College-SDD-2022](https://github.com/Aurora-College-SDD-2022). That's right 2022 because we will use this repository for the next 2 years.
+* use your GitHub account to accept the invitation to the repl.it team [Aurora College SDD](https://repl.it/teams/join/jdmzgwpzujkutkljkjntpgnkqgakwqsh-ACCodeMonkeys)
 * Familiarise yourself with important course information including:
     * Syllabus
     * Assessment Schedule
